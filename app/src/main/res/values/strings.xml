@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Skyscanner</string>
+    <string name="flight_scy1234">Flight: SCY1234</string>
+    <string name="from">BOS</string>
+    <string name="departure_time">08:45 AM</string>
+    <string name="to">LHR</string>
+    <string name="arrival_time">08:00 PM</string>
 </resources>
